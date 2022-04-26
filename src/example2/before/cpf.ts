@@ -1,3 +1,4 @@
+// @ts-nocheck
 export function validate (str) {
 
 	if (str !== null) {
